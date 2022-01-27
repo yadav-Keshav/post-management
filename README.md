@@ -1,7 +1,7 @@
 ##Setup:
 
- $ git clone https://github.com/yadav-Keshav/friend-service.git 
- $ cd friend-service 
+ $ git clone https://github.com/yadav-Keshav/post-management.git 
+ $ cd post-management
  $ npm install
 
 ##Start:
